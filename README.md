@@ -212,7 +212,8 @@ return 0;
 }
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f668a819-060c-4ee0-bedc-5dab0497d7d7)
+
 
  
 
